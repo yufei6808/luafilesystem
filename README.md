@@ -1,4 +1,4 @@
-[![Licence](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENCE.txt)
+ [![Licence](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENCE.txt)
 [![Build Status](https://travis-ci.org/keplerproject/luafilesystem.svg?branch=master)](https://travis-ci.org/keplerproject/luafilesystem)
 [![Build status](https://ci.appveyor.com/api/projects/status/y04s4ms7u16trw8e?svg=true)](https://ci.appveyor.com/project/ignacio/luafilesystem)
 [![Coverage Status](https://coveralls.io/repos/keplerproject/luafilesystem/badge.png)](https://coveralls.io/r/keplerproject/luafilesystem)
@@ -25,3 +25,21 @@ luarocks install luafilesystem
 # Documentation
 
 Please check the documentation at doc/us/ for more information.
+
+
+
+# res=lfs.attributes(path)
+modification  1496707751
+rdev  0
+size  42219
+ino 20455795
+mode  file
+access  1496711362
+blocks  88
+nlink 1
+uid 501
+blksize 4096
+gid 501
+permissions rw-rw-rw-
+dev 64529
+change  1496862094
